@@ -3,5 +3,6 @@ Kaggle is a platform that offers a great variety of datasets which I find quite 
 
 Here are some links to the datasets I have analysed:
 
-[HousePricesPrediction](Code/HousePricesPrediction.ipynb)
-[Titanic](Code/TitanicPassengersSurvivedOrDied.ipynb)
+[House Prices](Code/HousePricesPrediction.ipynb)
+
+[Titanic Survivors](Code/TitanicPassengersSurvivedOrDied.ipynb)
