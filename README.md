@@ -1,5 +1,7 @@
 ### Here you can find links to some datasets I have analysed:
 
-[House Prices](Code/HousePricesPrediction.ipynb)
+[Prediction of House Prices](Code/HousePricesPrediction.ipynb)
+		
+[Recognition of Handwritten Numbers](Code/ComputerVisionMnistDigits.ipynb)
 
-[Titanic Survivors](Code/TitanicPassengersSurvivedOrDied.ipynb)
+[Who survived the Titanic?](Code/TitanicPassengersSurvivedOrDied.ipynb)
