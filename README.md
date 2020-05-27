@@ -1,6 +1,6 @@
 ### Here you can find links to some datasets I have analysed:
 
-[Are these tweets talking about a disaster? (Natural Language Processing)](Code/NLPDisasterTweets)
+[Are these tweets talking about a disaster? (Natural Language Processing)](Code/NLPDisasterTweets.ipynb)
 
 [Prediction of House Prices (Regression)](Code/HousePricesPrediction.ipynb)
 		
