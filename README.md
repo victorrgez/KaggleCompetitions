@@ -4,6 +4,6 @@
 
 [Prediction of House Prices (Regression)](Code/HousePricesPrediction.ipynb)
 		
-[Recognition of Handwritten Numbers (ComputerVision)](Code/ComputerVisionMnistDigits.ipynb)
+[Recognition of Handwritten Numbers (Computer Vision)](Code/ComputerVisionMnistDigits.ipynb)
 
 [Who survived the Titanic? (Classification)](Code/TitanicPassengersSurvivedOrDied.ipynb)
